@@ -15,7 +15,7 @@ This project focuses on layout design, typography, and visual aesthetics.
 ### 💻 Desktop View  
 ![Desktop Screenshot](images/home-desktop.png)
 ### About-section view
-![Desktop Screenshot](images/about-section.png)
+![Desktop Screenshot](https://github.com/Sitanjlid/interior/blob/main/about-section.png)
 ### Contact-section view
 ![Desktop Screenshot](images/contact-section.png)
 ---
