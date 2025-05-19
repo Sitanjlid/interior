@@ -13,11 +13,11 @@ This project focuses on layout design, typography, and visual aesthetics.
 ## 📸 Screenshot
 
 ### 💻 Desktop View  
-![Desktop Screenshot](images/home-desktop.png)
+![Desktop Screenshot](https://github.com/Sitanjlid/interior/blob/main/home-desktop.png)
 ### About-section view
 ![Desktop Screenshot](https://github.com/Sitanjlid/interior/blob/main/about-section.png)
 ### Contact-section view
-![Desktop Screenshot](images/contact-section.png)
+![Desktop Screenshot](https://github.com/Sitanjlid/interior/blob/main/contact-section.png)
 ---
 
 ## 🛠 Tech Stack
